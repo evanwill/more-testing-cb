@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 # set ruby version
-ruby file: ".ruby-version"
+# ruby file: ".ruby-version"
 
 # needed for Jekyll
 gem 'jekyll'
